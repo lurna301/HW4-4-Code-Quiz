@@ -1,0 +1,36 @@
+
+
+.startQuiz {
+    border: 1px solid black;
+    width: 750px;
+    height: 300px;
+   
+}
+
+.startButton{
+
+    border-radius: 5px;
+    background-color: purple;
+    color: white;
+
+}
+
+.quizCard{
+
+    border: 1px solid black;
+    width: 750px;
+    height: 300px;
+
+}
+
+.quizOptionContainer button {
+
+    border-radius: 5px;
+    background-color: purple;
+    width: 200px;
+    color: white;
+    display:block;
+    margin-top: 2px;
+
+
+}
