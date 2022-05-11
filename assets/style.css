@@ -7,7 +7,7 @@
    
 }
 
-.startButton{
+.startButton , .nextQuestion{
 
     border-radius: 5px;
     background-color: purple;
@@ -34,3 +34,8 @@
 
 
 }
+
+.hide{
+
+    display: none;
+} 
